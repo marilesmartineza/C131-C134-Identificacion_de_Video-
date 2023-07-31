@@ -1,0 +1,62 @@
+body {
+    background-size: auto;
+    background-position: center;
+    font-family: 'Yuji Hentaigana Akebono', cursive;
+} 
+
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 10px 10px 5px  rgb(59, 83, 89);
+}
+
+.btn-info{
+    background-color: rgb(88, 140, 153);
+    box-shadow: 10px 10px 5px  rgb(59, 83, 89);
+  }
+
+.btn-info:hover{
+    background-color: rgb(115, 86, 169);
+  }
+
+
+.btn-primary{
+    font-size: 18px;
+    background-color: rgb(88, 140, 153);
+    box-shadow: 10px 10px 5px  rgb(59, 83, 89);
+}
+
+.btn-primary:hover{
+    background-color: rgb(115, 86, 169);
+  }
+
+.botones {
+    margin-right: 300px;
+    margin-top: 50px;
+}
+
+canvas {
+    box-shadow: 10px 10px 5px  rgb(59, 83, 89);
+    border-radius: 10px;
+    margin-left: 350px;
+}
+
+.copy_right_footer {
+    position: fixed;
+    font-size: 28px;
+    color: rgb(255, 255, 255);
+    bottom: 0;
+    width: 20%;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    box-shadow: 10px 10px 5px  rgb(59, 83, 89);
+    background-color: rgb(88, 140, 153);
+    line-height:  2;
+    text-align: center;
+    margin-bottom: 15px;
+ }
+
+ .copy_right_footer:hover{
+    background-color: rgb(115, 86, 169);  
+ }
